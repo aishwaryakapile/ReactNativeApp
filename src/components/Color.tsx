@@ -1,0 +1,6 @@
+export const DARK_BLUE='#333A57'
+export const MUTED_TEAL_BLUE='#4D869B'
+export const GRAY_SHADE='#717171'
+export const WHITE='#ffffff'
+export const BLACK_SHADE='#333A57'
+export const DARK_GRAY_SHADE='#808185'
